@@ -1,0 +1,27 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1679117935,
+        "narHash": "sha256-ZW/xRiNOuxYMmW4Tj3bGheoPN/YS9PzEr4AJDa6Pn+8=",
+        "owner": "illustris",
+        "repo": "nixpkgs",
+        "rev": "2f3b7ef0336c3950bf0e74f1e05ed46e1300ed12",
+        "type": "github"
+      },
+      "original": {
+        "owner": "illustris",
+        "ref": "lightgbm-gpu",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
